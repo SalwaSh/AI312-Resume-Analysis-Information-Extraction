@@ -21,11 +21,7 @@ Abstract: This project highlights the development and evaluation of a resume ana
 ```
 git clone https://github.com/SalwaSh/AI312-Resume-Analysis-Information-Extraction.git
 ```
-2. Navigate to the project directory
-```
-cd NLP-Resume-Parsing
-```
-3. Install the required dependencies from requirements.txt
+2. Install the required dependencies from requirements.txt
 
 ## Directory Hierarchy
 ```
