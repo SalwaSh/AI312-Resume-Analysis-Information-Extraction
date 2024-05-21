@@ -19,7 +19,7 @@ Abstract: This project highlights the development and evaluation of a resume ana
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/your-username/NLP-Resume-Parsing.git
+git clone https://github.com/SalwaSh/AI312-Resume-Analysis-Information-Extraction.git
 ```
 2. Navigate to the project directory
 ```
