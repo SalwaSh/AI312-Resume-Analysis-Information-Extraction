@@ -6,7 +6,7 @@ Abstract: This project highlights the development and evaluation of a resume ana
 - Title:  `Resume Analysis: Information Extraction `
 - Authors:  `Rasha Ashawa`,`Salwa Shamma`,`Sana Shamma`, `Nafisah Shams`
 
-## Install & Dependence
+## Dependence
 - python
 - spacy
 - PyMuPDF
